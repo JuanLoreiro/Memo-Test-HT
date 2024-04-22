@@ -4,6 +4,10 @@
 
 git clone https://github.com/JuanLoreiro/Memo-Test-HT
 
+## Advice
+
+The best would be yarn or npm to install dependencies
+
 Back: 'api-memo-test-main'
 Front: 'memory_game_test-master'
 
