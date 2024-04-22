@@ -4,7 +4,7 @@
 
 ## Download repository:
 
-    git clone https://github.com/diegomottadev/api-memo-test
+   https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/api-memo-test-main
 
 ## Navigate to the backend directory:
 
