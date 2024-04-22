@@ -48,8 +48,6 @@ Welcome to the Memo Test back-end project! This backend for a memo test game usi
 
 Check http://localhost:82
 
-Feel free to integrate it with the frontend to create an engaging Memo test game [https://github.com/diegomottadev/memo-test]. If you encounter any issues, make sure Docker is installed, and the necessary commands are executed in the correct order.
-
 
 
 
