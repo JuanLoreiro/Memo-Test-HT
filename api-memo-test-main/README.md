@@ -1,5 +1,3 @@
-Welcome to the Memo Test back-end project! This backend for a memo test game using Laravel, GraphQL API, MySQL, and Docker. This server-side application handles game logic, data storage, and communication with the frontend, providing a seamless experience for players. The use of Laravel ensures a robust and scalable backend, GraphQL facilitates efficient data retrieval, MySQL serves as the database, and Docker simplifies deployment and management of the entire system.
-
 ## Prerequisites
 
     Docker and Docker Compose installed
