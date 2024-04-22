@@ -39,11 +39,6 @@
     docker exec -it api-memo-test-app php artisan db:seed --class=MemoTestSeeder
     docker exec -it api-memo-test-app php artisan db:seed --class=MemoTestImageSeeder
 
-
-
-
-## Now, the backend is ready to be used with the frontend!
-
 Check http://localhost:82
 
 
