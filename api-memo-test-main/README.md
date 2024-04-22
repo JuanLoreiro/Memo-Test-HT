@@ -5,10 +5,6 @@
     https://docs.docker.com/compose/install/
     https://www.docker.com/products/docker-desktop/
 
-## Download repository:
-
-   git clone https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/api-memo-test-main
-
 ## Navigate to the backend directory:
 
     cd api-memo-test
