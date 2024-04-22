@@ -7,7 +7,7 @@ Intall Next.js & node dependencies. Or the Ones that you want.
 ## Example
 
 ```bash
-npm install [dependencies that you'r going to use]
+npm install (next,react, or whatever you want)
 ```
 
 First, run the development server:
