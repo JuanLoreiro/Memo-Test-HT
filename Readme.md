@@ -2,7 +2,9 @@
 
 ## For all first clone the repo:
 
+```bash
 git clone https://github.com/JuanLoreiro/Memo-Test-HT
+´´´
 
 ## Advice
 
