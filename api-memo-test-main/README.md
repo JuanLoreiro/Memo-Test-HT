@@ -1,6 +1,9 @@
 ## Prerequisites
 
     Docker and Docker Compose installed
+    
+    https://docs.docker.com/compose/install/
+    https://www.docker.com/products/docker-desktop/
 
 ## Download repository:
 
