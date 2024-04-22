@@ -13,3 +13,6 @@ It is even more optimized with lighthouse (which I used a little, but I am wanti
 
 If you have any questions or errors, do not hesitate to contact me at "juanloreiro10@gmail.com"
 
+![Captura de pantalla 2024-04-22 161305](https://github.com/JuanLoreiro/Memo-Test-HT/assets/163009743/6eaae19f-2d80-47b4-b330-f751b7b1b0f3)
+![Captura de pantalla 2024-04-22 162144](https://github.com/JuanLoreiro/Memo-Test-HT/assets/163009743/ec28ca0a-07e2-40d5-bbd2-238d7a464cd7)
+![Captura de pantalla 2024-04-22 161433](https://github.com/JuanLoreiro/Memo-Test-HT/assets/163009743/26501cee-d2af-44f4-9c74-a79e97b04c1f)
