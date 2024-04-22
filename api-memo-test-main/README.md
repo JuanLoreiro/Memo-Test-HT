@@ -14,7 +14,7 @@
 
     docker-compose up -d
 
-## Wait for the build to finish
+## Wait
 
     ...
 
