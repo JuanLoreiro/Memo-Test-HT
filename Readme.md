@@ -10,9 +10,9 @@ The best would be yarn or npm to install dependencies
 
 ## Both parts cointains readme.md for you to use it.
 
-[Back: 'api-memo-test-main'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/memory_game_test-master)
+[Front: 'memory_game_test-master'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/memory_game_test-master)
 
-[Front: 'memory_game_test-master'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/api-memo-test-main)
+[Back: 'api-memo-test-main'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/api-memo-test-main)
 
 I hope you find it excellent. I used a very light base of lighthouse but I decided for convenience of understanding to prepare everything well with what I mostly know and train myself even more in lighthouse to be at your service and have the knowledge studied and prepared for whatever you need, I love the idea of to be able to improve myself more and more in a work environment like lighthouse.
 
