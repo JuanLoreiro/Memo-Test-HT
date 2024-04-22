@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-04-22 184635](https://github.com/JuanLoreiro/Memo-Test-HT/assets/163009743/5426a12c-a0cc-43a6-8d0e-131407ca004f)## Home folder to separate the respective front and back directories
+## Home folder to separate the respective front and back directories
 
 ## For all first clone the repo:
 
