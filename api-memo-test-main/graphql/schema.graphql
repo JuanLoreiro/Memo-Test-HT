@@ -1,0 +1,50 @@
+type MemoTest {
+ id: Int!
+ name: String!
+ images: [MemoTestImage!]!
+ scoreMax: GameSession @hasOne 
+ sessions: [GameSession!]! @hasMany # Establishing a one-to-many relationship
+ created_at: String!
+ updated_at: String!
+}
+
+type MemoTestImage {
+  id: Int!
+  image_url: String!
+  created_at: String!
+  updated_at: String!
+}
+
+type GameSession {
+  id: Int!
+  memo_test_id: Int!
+  retries: Int!
+  number_of_pairs: Int!
+  state: String!
+  user_selections: Int!
+  score: Int!
+  created_at: String!
+  updated_at: String!
+}
+
+enum SessionState {
+  Started
+  Completed
+}
+
+type Mutation {
+  createMemoTest(name: String!, images: [String!]!): MemoTest
+  updateMemoTest(id: ID!, imagesToAdd: [String!], imagesToRemove: [String!]): MemoTest
+  deleteMemoTest(id: ID!): ID
+  createGameSession(memo_test_id: ID!, retries: Int!, number_of_pairs: Int!, state: SessionState!): GameSession @create
+  endGameSession(id: ID!): GameSession
+  updateGameSession(id: ID!, score: Int!): GameSession @update
+  updateGameSessionCard(id: ID!, retries: Int!, number_of_pairs: Int!): GameSession @update
+
+}
+
+type Query {
+  memoTests: [MemoTest!]! @all
+  memoTest(id: ID! @eq): MemoTest @find
+  gameSession(id: ID! @eq): GameSession @find
+}
