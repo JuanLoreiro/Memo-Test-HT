@@ -2,7 +2,7 @@ Home folder to separate the respective front and back directories
 
 For all first clone the repo:
 
-
+git clone https://github.com/JuanLoreiro/Memo-Test-HT
 
 Back: 'api-memo-test-main'
 Front: 'memory_game_test-master'
