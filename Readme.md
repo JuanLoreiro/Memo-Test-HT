@@ -1,8 +1,10 @@
 ## Home folder to separate the respective front and back directories
 
+Here you will have a step by step of how to install the dependency base and so on so that the project works, once all this base is well set, all that remains is to modify (id, query, endpoitns and other other parts to your needs). Enjoy!
+
 ## For all first clone the repo:
 
-git clone https://github.com/JuanLoreiro/Memo-Test-HT
+  git clone https://github.com/JuanLoreiro/Memo-Test-HT
 
 ## Advice
 
@@ -10,9 +12,9 @@ The best would be yarn or npm to install dependencies
 
 ## Both parts cointains readme.md for you to use it.
 
-[Front: 'memory_game_test-master'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/memory_game_test-master)
+  [Front: 'memory_game_test-master'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/memory_game_test-master)
 
-[Back: 'api-memo-test-main'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/api-memo-test-main)
+  [Back: 'api-memo-test-main'](https://github.com/JuanLoreiro/Memo-Test-HT/tree/main/api-memo-test-main)
 
 I hope you find it excellent. I used a very light base of lighthouse but I decided for convenience of understanding to prepare everything well with what I mostly know and train myself even more in lighthouse to be at your service and have the knowledge studied and prepared for whatever you need, I love the idea of to be able to improve myself more and more in a work environment like lighthouse.
 
