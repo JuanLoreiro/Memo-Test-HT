@@ -40,8 +40,20 @@
 
 Check http://localhost:82
 
+## To make sure that you get your own free ideas i made the base of both back & and front, so feel free to modify everything (id,querys,all...)
 
+make sure that you run this
 
+```bash
+npm install -g graphql-cli
+graphql init
+graphql get-schema --endpoint=example.com/graphql --output=schema.graphql
+´´´
+
+for migrations.
+
+Lighthouse documentation
+https://lighthouse-php.com/6/getting-started/migrating-to-lighthouse.html#schema-definition
 
 
 
