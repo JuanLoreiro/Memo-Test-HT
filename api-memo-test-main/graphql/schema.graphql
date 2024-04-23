@@ -1,21 +1,21 @@
-type MemoTest {
+type MemoTest @model {
  id: Int!
  name: String!
- images: [MemoTestImage!]!
+ images: [MemoTestImage!]! @hasMany # Establecer una relación de uno a muchos
  scoreMax: GameSession @hasOne 
- sessions: [GameSession!]! @hasMany # Establishing a one-to-many relationship
+ sessions: [GameSession!]! @hasMany # Establecer una relación de uno a muchos
  created_at: String!
  updated_at: String!
 }
 
-type MemoTestImage {
+type MemoTestImage @model {
   id: Int!
   image_url: String!
   created_at: String!
   updated_at: String!
 }
 
-type GameSession {
+type GameSession @model {
   id: Int!
   memo_test_id: Int!
   retries: Int!
@@ -40,7 +40,6 @@ type Mutation {
   endGameSession(id: ID!): GameSession
   updateGameSession(id: ID!, score: Int!): GameSession @update
   updateGameSessionCard(id: ID!, retries: Int!, number_of_pairs: Int!): GameSession @update
-
 }
 
 type Query {
